@@ -9,3 +9,8 @@ Belajar kelas Dasar Git dengan GitHub. (Progres 50%)
 Belajar kelas Dasar Git dengan GitHub. (Progres 70%)
 * Mengenal Repository, workflow, dll.
 * Mengerjakan studi kasus.
+
+**15 September 2024**<br>
+Belajar kelas Dasar Git dengan GitHub. (Progres 100%)
+* Belajar membuat git branches.
+* Belajar membuat portofolio dari git
